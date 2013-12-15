@@ -1,0 +1,10 @@
+
+http://jordanddisch.github.io/living-motions/about.html
+http://jordanddisch.github.io/living-motions/atom.xml
+http://jordanddisch.github.io/living-motions/contact.html
+http://jordanddisch.github.io/living-motions/index.html
+http://jordanddisch.github.io/living-motions/rss.xml
+http://jordanddisch.github.io/living-motions/sitemap.txt
+http://jordanddisch.github.io/living-motions/tags.html
+
+http://jordanddisch.github.io/living-motions/lessons/2011/12/29/jekyll-introduction
